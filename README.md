@@ -149,15 +149,15 @@ API_BASE_URL=https://api.littlelemon.com/
 
 | Register                                                | Desserts                                             | Home                                            |
 | ------------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------- |
-| ![Register Screen](docs/screens/01_register_screen.jpg) | ![Desserts Screen](docs/screens/02_desserts_screen.jpg) | ![Home Screen](docs/screens/03_home_screen.jpg) |
+| ![Register Screen](https://github.com/Khilesh-01/little-lemon/blob/main/LittleLemon/docs/screens/01_register_screen.jpg) | ![Desserts Screen](https://github.com/Khilesh-01/little-lemon/blob/main/LittleLemon/docs/screens/02_desserts_screen.jpg) | ![Home Screen](https://github.com/Khilesh-01/little-lemon/blob/main/LittleLemon/docs/screens/03_home_screen.jpg) |
 
 | Menu                                            | Filter                                              | Profile                                               |
 | ----------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- |
-| ![Menu Screen](docs/screens/04_menu_screen.jpg) | ![Filter Screen](docs/screens/05_filter_screen.jpg) | ![Profile Screen](docs/screens/06_profile_screen.jpg) |
+| ![Menu Screen](https://github.com/Khilesh-01/little-lemon/blob/main/LittleLemon/docs/screens/04_menu_screen.jpg) | ![Filter Screen](https://github.com/Khilesh-01/little-lemon/blob/main/LittleLemon/docs/screens/05_filter_screen.jpg) | ![Profile Screen](https://github.com/Khilesh-01/little-lemon/blob/main/LittleLemon/docs/screens/06_profile_screen.jpg) |
 
 | App Flow                                        |
 | ----------------------------------------------- |
-| ![App Flow](docs/screens/flow.png)              |
+| ![App Flow](https://github.com/Khilesh-01/little-lemon/blob/main/LittleLemon/docs/screens/flow.png)              |
 
 
 
