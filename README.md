@@ -158,6 +158,9 @@ API_BASE_URL=https://api.littlelemon.com/
 | App Flow                                        |
 | ----------------------------------------------- |
 | ![App Flow](https://github.com/Khilesh-01/little-lemon/blob/main/LittleLemon/docs/screens/flow.png)              |
+| Presentation Layer                                        |
+| ----------------------------------------------- |
+| ![Presentation Layer](https://github.com/Khilesh-01/little-lemon/blob/main/LittleLemon/docs/MVI_Little_Lemon_Presentation_Layer_Diagram.svg)              |
 
 
 
